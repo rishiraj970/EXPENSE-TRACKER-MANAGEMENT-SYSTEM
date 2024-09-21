@@ -1,4 +1,4 @@
-# Projects
+# EXPENSE TRACKER MANAGEMENT SYSTEM
 1) python manage.py makemigrations expenses 
         do the same for other apps
 2) python manage.py migrate
